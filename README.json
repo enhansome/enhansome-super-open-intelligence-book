@@ -1,44 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "📋 List of Open-Source Projects"
-    },
-    {
-      "description": "Frameworks, runtimes, and systems for training, inference, and scaling.",
-      "items": [],
-      "title": "LLM Infra and Optimization"
-    },
-    {
-      "description": "Multi-agent frameworks and components (e.g. memory).",
-      "items": [],
-      "title": "Agents"
-    },
-    {
-      "description": "Open datasets & dataset tools for training or fine-tuning models.",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "Frameworks for testing and benchmarking LLMs & agents.",
-      "items": [],
-      "title": "Evals and Benchmarks"
-    },
-    {
-      "description": "Libraries, plugins, and utilities that extend LLM/GenAI usage.",
-      "items": [],
-      "title": "Tools and Extensions"
-    },
-    {
-      "description": "If there are hot repositories missing, add them.\nIf any of these repositories are now stale, remove them.",
-      "items": [],
-      "title": "✨ Call to Contributions"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T14:56:29.355Z",
+    "last_updated": "2026-08-19T12:53:48.226Z",
     "original_repository": "hesamsheikh/super-open-intelligence-book",
+    "original_repository_id": 1065005261,
     "original_repository_sha": "79a183041aad4a4f27dc5180f6c9a18b52492874",
     "enhanced_repository": "enhansome/enhansome-super-open-intelligence-book",
     "enhanced_repository_description": null,
