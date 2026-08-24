@@ -1,7 +1,372 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "huggingface/transformers",
+              "description": "Core NLP/LLM models (training & inference)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155220641,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:07:06Z",
+                "owner": "huggingface",
+                "repo": "transformers",
+                "stars": 164393
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytorch/pytorch",
+              "description": "Deep learning engine, foundation of most LLMs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65600975,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:34:04Z",
+                "owner": "pytorch",
+                "repo": "pytorch",
+                "stars": 102575
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lightning-AI/pytorch-lightning",
+              "description": "High-level training framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178626720,
+                "language": "Python",
+                "last_commit": "2026-08-09T12:04:16Z",
+                "owner": "Lightning-AI",
+                "repo": "pytorch-lightning",
+                "stars": 31305
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ggerganov/llama.cpp",
+              "description": "Lightweight LLaMA/LLM inference in pure C++",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612354784,
+                "language": "C++",
+                "last_commit": "2026-08-24T14:21:04Z",
+                "owner": "ggml-org",
+                "repo": "llama.cpp",
+                "stars": 125405
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lm-sys/FastChat",
+              "description": "Serving platform for open LLMs (Vicuna, Chatbot Arena)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615882673,
+                "language": "Python",
+                "last_commit": "2026-05-01T00:25:53Z",
+                "owner": "lm-sys",
+                "repo": "FastChat",
+                "stars": 39524
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "unslothai/unsloth",
+              "description": "2-5x faster LLM fine-tuning with 80% less memory usage",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 725205304,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:29:30Z",
+                "owner": "unslothai",
+                "repo": "unsloth",
+                "stars": 74586
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "huggingface/trl",
+              "description": "Transformer Reinforcement Learning - train language models with RLHF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250510075,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:35:24Z",
+                "owner": "huggingface",
+                "repo": "trl",
+                "stars": 19144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "microsoft/DeepSpeed",
+              "description": "Distributed training and optimization for large models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235860204,
+                "language": "Python",
+                "last_commit": "2026-08-24T10:36:36Z",
+                "owner": "deepspeedai",
+                "repo": "DeepSpeed",
+                "stars": 42985
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mlflow/mlflow",
+              "description": "End-to-end ML lifecycle management (tracking, serving)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136202695,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:12:03Z",
+                "owner": "mlflow",
+                "repo": "mlflow",
+                "stars": 27650
+              }
+            }
+          ],
+          "description": "Frameworks, runtimes, and systems for training, inference, and scaling.",
+          "node_type": "group",
+          "title": "LLM Infra and Optimization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "camel-ai/camel",
+              "description": "Multi-agent agentic framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615510678,
+                "language": "Python",
+                "last_commit": "2026-08-21T11:36:45Z",
+                "owner": "camel-ai",
+                "repo": "camel",
+                "stars": 17631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mem0ai/mem0",
+              "description": "Universal memory layer for AI Agents",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656099147,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:19:37Z",
+                "owner": "mem0ai",
+                "repo": "mem0",
+                "stars": 63949
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "langchain-ai/langchain",
+              "description": "Framework for LLM-powered agents & tool use",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 552661142,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:31:31Z",
+                "owner": "langchain-ai",
+                "repo": "langchain",
+                "stars": 144894
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jerryjliu/llama_index",
+              "description": "Data framework for retrieval-augmented generation (RAG)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560704231,
+                "language": "Python",
+                "last_commit": "2026-08-20T15:46:41Z",
+                "owner": "run-llama",
+                "repo": "llama_index",
+                "stars": 51840
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Significant-Gravitas/Auto-GPT",
+              "description": "Autonomous goal-driven GPT-4 agent",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614765452,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:34:51Z",
+                "owner": "Significant-Gravitas",
+                "repo": "AutoGPT",
+                "stars": 186849
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TransformerOptimus/SuperAGI",
+              "description": "Framework for building & managing autonomous agents",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 640182997,
+                "language": "Python",
+                "last_commit": "2025-01-22T22:14:07Z",
+                "owner": "TransformerOptimus",
+                "repo": "SuperAGI",
+                "stars": 17660
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "microsoft/semantic-kernel",
+              "description": "SDK for LLM orchestration (skills, memory)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607289185,
+                "language": "C#",
+                "last_commit": "2026-08-21T02:44:34Z",
+                "owner": "microsoft",
+                "repo": "semantic-kernel",
+                "stars": 28489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FlowiseAI/Flowise",
+              "description": "Low-code visual builder for LLM workflows",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 621803253,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T12:38:19Z",
+                "owner": "FlowiseAI",
+                "repo": "Flowise",
+                "stars": 55389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FoundationAgents/MetaGPT",
+              "description": "Multi-Agent Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 660551251,
+                "language": "Python",
+                "last_commit": "2026-01-21T10:12:33Z",
+                "owner": "FoundationAgents",
+                "repo": "MetaGPT",
+                "stars": 69996
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "langchain-ai/langgraph",
+              "description": "Build resilient language agents as graphs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 676672661,
+                "language": "Python",
+                "last_commit": "2026-08-24T09:15:53Z",
+                "owner": "langchain-ai",
+                "repo": "langgraph",
+                "stars": 40358
+              }
+            }
+          ],
+          "description": "Multi-agent frameworks and components (e.g. memory).",
+          "node_type": "group",
+          "title": "Agents"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EleutherAI/lm-evaluation-harness",
+              "description": "A framework for few-shot evaluation of language models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290909192,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:52:45Z",
+                "owner": "EleutherAI",
+                "repo": "lm-evaluation-harness",
+                "stars": 13773
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "confident-ai/deepeval",
+              "description": "The LLM Evaluation Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 676829188,
+                "language": "Python",
+                "last_commit": "2026-08-21T19:24:44Z",
+                "owner": "confident-ai",
+                "repo": "deepeval",
+                "stars": 17818
+              }
+            }
+          ],
+          "description": "Frameworks for testing and benchmarking LLMs & agents.",
+          "node_type": "group",
+          "title": "Evals and Benchmarks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "huggingface/diffusers",
+              "description": "Diffusion models for image/audio/video generation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 498011141,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:31:23Z",
+                "owner": "huggingface",
+                "repo": "diffusers",
+                "stars": 34366
+              }
+            }
+          ],
+          "description": "Libraries, plugins, and utilities that extend LLM/GenAI usage.",
+          "node_type": "group",
+          "title": "Tools and Extensions"
+        }
+      ],
+      "title": "📋 List of Open-Source Projects"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T14:44:24.760Z",
+    "last_updated": "2026-08-24T14:37:46.571Z",
     "original_repository": "hesamsheikh/super-open-intelligence-book",
     "original_repository_id": 1065005261,
     "original_repository_sha": "79a183041aad4a4f27dc5180f6c9a18b52492874",
