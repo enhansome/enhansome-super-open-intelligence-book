@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:07:06Z",
+                "last_commit": "2026-08-24T15:02:46Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164393
+                "stars": 164394
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 65600975,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:34:04Z",
+                "last_commit": "2026-08-24T15:04:28Z",
                 "owner": "pytorch",
                 "repo": "pytorch",
                 "stars": 102575
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 612354784,
                 "language": "C++",
-                "last_commit": "2026-08-24T14:21:04Z",
+                "last_commit": "2026-08-24T14:39:45Z",
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 125405
+                "stars": 125409
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-24T14:29:30Z",
                 "owner": "unslothai",
                 "repo": "unsloth",
-                "stars": 74586
+                "stars": 74591
               }
             },
             {
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 250510075,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:35:24Z",
+                "last_commit": "2026-08-24T15:00:22Z",
                 "owner": "huggingface",
                 "repo": "trl",
                 "stars": 19144
@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-24T14:19:37Z",
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 63949
+                "stars": 63950
               }
             },
             {
@@ -186,10 +186,10 @@
                 "archived": false,
                 "id": 552661142,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:31:31Z",
+                "last_commit": "2026-08-24T14:59:13Z",
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 144894
+                "stars": 144896
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-20T15:46:41Z",
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 51840
+                "stars": 51842
               }
             },
             {
@@ -216,7 +216,7 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:34:51Z",
+                "last_commit": "2026-08-24T15:03:56Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
                 "stars": 186849
@@ -279,7 +279,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 69996
+                "stars": 69998
               }
             },
             {
@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-24T09:15:53Z",
                 "owner": "langchain-ai",
                 "repo": "langgraph",
-                "stars": 40358
+                "stars": 40359
               }
             }
           ],
@@ -350,7 +350,7 @@
                 "archived": false,
                 "id": 498011141,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:31:23Z",
+                "last_commit": "2026-08-24T14:50:53Z",
                 "owner": "huggingface",
                 "repo": "diffusers",
                 "stars": 34366
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:37:46.571Z",
+    "last_updated": "2026-08-24T15:04:55.483Z",
     "original_repository": "hesamsheikh/super-open-intelligence-book",
     "original_repository_id": 1065005261,
     "original_repository_sha": "79a183041aad4a4f27dc5180f6c9a18b52492874",
