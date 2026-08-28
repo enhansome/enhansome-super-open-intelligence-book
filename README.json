@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-27T23:29:47Z",
+                "last_commit": "2026-08-28T23:29:59Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164515
-              }
+                "stars": 164579
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 65600975,
                 "language": "Python",
-                "last_commit": "2026-08-27T23:47:23Z",
+                "last_commit": "2026-08-28T23:34:17Z",
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 102630
-              }
+                "stars": 102654
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-25T16:59:45Z",
                 "owner": "Lightning-AI",
                 "repo": "pytorch-lightning",
-                "stars": 31313
-              }
+                "stars": 31315
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -59,11 +62,12 @@
                 "archived": false,
                 "id": 612354784,
                 "language": "C++",
-                "last_commit": "2026-08-27T23:29:19Z",
+                "last_commit": "2026-08-28T22:38:22Z",
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 125959
-              }
+                "stars": 126107
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -77,8 +81,9 @@
                 "last_commit": "2026-05-01T00:25:53Z",
                 "owner": "lm-sys",
                 "repo": "FastChat",
-                "stars": 39527
-              }
+                "stars": 39526
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -89,11 +94,12 @@
                 "archived": false,
                 "id": 725205304,
                 "language": "Python",
-                "last_commit": "2026-08-27T23:19:29Z",
+                "last_commit": "2026-08-28T23:18:09Z",
                 "owner": "unslothai",
                 "repo": "unsloth",
-                "stars": 74990
-              }
+                "stars": 75070
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -104,11 +110,12 @@
                 "archived": false,
                 "id": 250510075,
                 "language": "Python",
-                "last_commit": "2026-08-27T22:36:10Z",
+                "last_commit": "2026-08-28T16:20:00Z",
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19160
-              }
+                "stars": 19171
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -119,11 +126,12 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:42:10Z",
+                "last_commit": "2026-08-28T23:14:12Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43014
-              }
+                "stars": 43019
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -134,11 +142,12 @@
                 "archived": false,
                 "id": 136202695,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:56:46Z",
+                "last_commit": "2026-08-28T16:11:46Z",
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 27698
-              }
+                "stars": 27716
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             }
           ],
           "description": "Frameworks, runtimes, and systems for training, inference, and scaling.",
@@ -159,8 +168,9 @@
                 "last_commit": "2026-08-27T06:39:24Z",
                 "owner": "camel-ai",
                 "repo": "camel",
-                "stars": 17650
-              }
+                "stars": 17651
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -171,11 +181,12 @@
                 "archived": false,
                 "id": 656099147,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:42:05Z",
+                "last_commit": "2026-08-28T18:02:50Z",
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 64202
-              }
+                "stars": 64272
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -186,11 +197,12 @@
                 "archived": false,
                 "id": 552661142,
                 "language": "Python",
-                "last_commit": "2026-08-27T23:00:43Z",
+                "last_commit": "2026-08-28T23:20:17Z",
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 145149
-              }
+                "stars": 145207
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -201,11 +213,12 @@
                 "archived": false,
                 "id": 560704231,
                 "language": "Python",
-                "last_commit": "2026-08-27T22:23:42Z",
+                "last_commit": "2026-08-28T15:33:53Z",
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 51895
-              }
+                "stars": 51909
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -216,11 +229,12 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-27T23:36:24Z",
+                "last_commit": "2026-08-28T19:28:51Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186936
-              }
+                "stars": 186964
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -234,8 +248,9 @@
                 "last_commit": "2025-01-22T22:14:07Z",
                 "owner": "TransformerOptimus",
                 "repo": "SuperAGI",
-                "stars": 17663
-              }
+                "stars": 17667
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -249,8 +264,9 @@
                 "last_commit": "2026-08-27T16:58:48Z",
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28507
-              }
+                "stars": 28510
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -264,8 +280,9 @@
                 "last_commit": "2026-08-13T12:38:19Z",
                 "owner": "FlowiseAI",
                 "repo": "Flowise",
-                "stars": 55399
-              }
+                "stars": 55401
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -279,8 +296,9 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70071
-              }
+                "stars": 70087
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -291,11 +309,12 @@
                 "archived": false,
                 "id": 676672661,
                 "language": "Python",
-                "last_commit": "2026-08-27T22:19:55Z",
+                "last_commit": "2026-08-28T16:36:39Z",
                 "owner": "langchain-ai",
                 "repo": "langgraph",
-                "stars": 40569
-              }
+                "stars": 40637
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             }
           ],
           "description": "Multi-agent frameworks and components (e.g. memory).",
@@ -313,11 +332,12 @@
                 "archived": false,
                 "id": 290909192,
                 "language": "Python",
-                "last_commit": "2026-08-27T18:12:08Z",
+                "last_commit": "2026-08-28T19:42:50Z",
                 "owner": "EleutherAI",
                 "repo": "lm-evaluation-harness",
-                "stars": 13814
-              }
+                "stars": 13821
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             },
             {
               "node_type": "item",
@@ -328,11 +348,12 @@
                 "archived": false,
                 "id": 676829188,
                 "language": "Python",
-                "last_commit": "2026-08-26T07:53:19Z",
+                "last_commit": "2026-08-28T08:13:55Z",
                 "owner": "confident-ai",
                 "repo": "deepeval",
-                "stars": 17914
-              }
+                "stars": 17937
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             }
           ],
           "description": "Frameworks for testing and benchmarking LLMs & agents.",
@@ -350,11 +371,12 @@
                 "archived": false,
                 "id": 498011141,
                 "language": "Python",
-                "last_commit": "2026-08-27T12:35:09Z",
+                "last_commit": "2026-08-28T16:40:27Z",
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34392
-              }
+                "stars": 34402
+              },
+              "first_seen": "2026-08-28T23:35:04.977Z"
             }
           ],
           "description": "Libraries, plugins, and utilities that extend LLM/GenAI usage.",
@@ -366,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:49:23.307Z",
+    "last_updated": "2026-08-28T23:35:04.977Z",
     "original_repository_info": {
       "archived": false,
       "id": 1065005261,
